@@ -1,2 +1,1 @@
 # WriteUp
-CTF write up
